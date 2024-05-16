@@ -1,2 +1,5 @@
 # hashcrack
-A simple hash cracker for Windows
+A simple command line util used for hash cracking.
+
+# Available platforms:
+- Windows
